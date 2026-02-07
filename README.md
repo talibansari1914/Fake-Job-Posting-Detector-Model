@@ -26,7 +26,7 @@ Each model independently predicts whether a job posting is **Real or Fake**.<br>
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python<br>
 - Scikit-learn<br>
@@ -37,7 +37,7 @@ Each model independently predicts whether a job posting is **Real or Fake**.<br>
 
 ---
 
-## 🧪 Model Evaluation
+## Model Evaluation
 
 Models were evaluated offline using:<br>
 
@@ -54,7 +54,7 @@ inside the Jupyter Notebook.<br>
 
 ---
 
-## 🖥️ Application Workflow
+## Application Workflow
 
 1. User enters job description<br>
 2. Text is cleaned and vectorized<br>
@@ -64,7 +64,7 @@ inside the Jupyter Notebook.<br>
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Fake-Job-Posting-Detector/<br>
 │
